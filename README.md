@@ -17,13 +17,16 @@ python main.py
 
 Upon running the previous commands into your command shell, Pytube will be responsible of downloading the appropriate video required for the car recognition test. Running time may differ based on internet speeds since download is required.
 
-##Errors
+
+
+## Errors
 Common errors occur within the Pytube library. In case of errors please execute the following commands on command shell
 
 ```bash
 python -m pip install git+https://github.com/Zeecka/pytube@fix_1060
 python -m pip install --upgrade pytube
 ```
+
 
 ## References 
 This code is written in accordance to the PEP8 Style Guide for Python Code
